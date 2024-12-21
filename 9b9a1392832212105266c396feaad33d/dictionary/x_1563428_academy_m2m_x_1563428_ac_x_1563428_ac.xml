@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4732a392836212105266c396feaad371" label="Course Enrollments " max_length="40" name="x_1563428_academy_m2m_x_1563428_ac_x_1563428_ac" type="collection">
+        <element label="Enrolment Date" max_length="40" name="enrolment_date" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Student" max_length="32" name="x_1563428_academy_student" reference="x_1563428_academy_student" type="reference"/>
+        <element attributes="encode_utf8=false" label="Course" max_length="32" name="x_1563428_academy_courses" reference="x_1563428_academy_courses" type="reference"/>
+        <element choice="1" label="Enrolment Status" max_length="40" name="enrolment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Enrolled" sequence="0" value="Enrolled"/>
+                <element inactive_on_update="false" label="Withdrawn" sequence="2" value="Withdrawn"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="Completed"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="x_1563428_academy_courses"/>
+        </index>
+        <index name="index2">
+            <element name="x_1563428_academy_student"/>
+        </index>
+    </element>
+</database>

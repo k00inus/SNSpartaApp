@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Academy">65ced71a832212105266c396feaad34b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 23:58:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e088e79a836212105266c396feaad321</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Academy" source="x_1563428_academy">9b9a1392832212105266c396feaad33d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">9b9a1392832212105266c396feaad33d</sys_scope>
+        <sys_update_name>sys_app_module_e088e79a836212105266c396feaad321</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 00:03:58</sys_updated_on>
+        <timeline_page/>
+        <title>New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">9b9a1392832212105266c396feaad33d</application>
+        <file_path/>
+        <instance_id>641b7a3e1b5d0a5439a54089bd4bcb65</instance_id>
+        <instance_name>dev255491</instance_name>
+        <name>sys_app_module_e088e79a836212105266c396feaad321</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Academy">65ced71a832212105266c396feaad34b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-20 23:58:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e088e79a836212105266c396feaad321</sys_id><sys_mod_count>3</sys_mod_count><sys_name>New</sys_name><sys_overrides/><sys_package display_value="Academy" source="x_1563428_academy">9b9a1392832212105266c396feaad33d</sys_package><sys_policy/><sys_scope display_value="Academy">9b9a1392832212105266c396feaad33d</sys_scope><sys_update_name>sys_app_module_e088e79a836212105266c396feaad321</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-21 00:03:58</sys_updated_on><timeline_page/><title>New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-523027349</payload_hash>
+        <record_name>New</record_name>
+        <reverted_from/>
+        <source>5f9a1392832212105266c396feaad341</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 00:03:58</sys_created_on>
+        <sys_id>5ce92b1e836212105266c396feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193e6872c790000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 00:03:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>14e92b1efe6212108db5aab75b73d39d</update_guid>
+        <update_guid_history>14e92b1efe6212108db5aab75b73d39d:-523027349,b1c9271e5b621210b3ef3cab54a212ad:1577588353,5ac8675a09621210e3c91709642cb86d:-523027349,7fa8e79a7e62121066f08f22e5c64f26:527234532</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New">6ff9e7da836212105266c396feaad3c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-21 00:04:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>8f07a14ddf8f43fc960e5dd27eb645a4</sys_id>
+        <sys_metadata>e088e79a836212105266c396feaad321</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="Academy" source="x_1563428_academy">9b9a1392832212105266c396feaad33d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">9b9a1392832212105266c396feaad33d</sys_scope>
+        <sys_scope_delete display_value="">0266cddfdbec409a80a7652f8392cd11</sys_scope_delete>
+        <sys_update_name>sys_app_module_e088e79a836212105266c396feaad321</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e088e79a836212105266c396feaad321">5ce92b1e836212105266c396feaad39d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-21 00:04:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

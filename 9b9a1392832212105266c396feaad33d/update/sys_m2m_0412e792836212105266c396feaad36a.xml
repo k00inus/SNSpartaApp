@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_1563428_academy_courses</from_table>
+        <m2m_from_field>x_1563428_academy_courses</m2m_from_field>
+        <m2m_from_label>Students</m2m_from_label>
+        <m2m_table>x_1563428_academy_m2m_x_1563428_ac_x_1563428_ac</m2m_table>
+        <m2m_to_field>x_1563428_academy_student</m2m_to_field>
+        <m2m_to_label>Courses</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 23:30:34</sys_created_on>
+        <sys_id>0412e792836212105266c396feaad36a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1563428_academy_m2m_x_1563428_ac_x_1563428_ac</sys_name>
+        <sys_package display_value="Academy" source="x_1563428_academy">9b9a1392832212105266c396feaad33d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">9b9a1392832212105266c396feaad33d</sys_scope>
+        <sys_update_name>sys_m2m_0412e792836212105266c396feaad36a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 23:30:34</sys_updated_on>
+        <to_table>x_1563428_academy_student</to_table>
+    </sys_m2m>
+</record_update>
